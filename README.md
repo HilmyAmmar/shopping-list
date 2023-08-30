@@ -1,5 +1,7 @@
-Nama : Hilmy Ammar Darmawan
+Nama    : Hilmy Ammar Darmawan
 
-NPM : 2206081736
+NPM     : 2206081736
 
-Kelas : PBP E
+Kelas   : PBP E
+
+Hobi    : Tidur
